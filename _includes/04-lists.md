@@ -1,1 +1,15 @@
-Replace this with a list of your favorite things.
+# My Favorite Things
+- Books 📚
+  - Sci-fi 👽
+  - Fantasy 🦄
+  - Historical Fiction 🕰️
+- Games 🎮
+  - Guild Wars 2
+  - FFXIV
+  - Casual/Solo Games
+- Food 🍕
+  - Sushi 🍣
+  - Chinese 🥠
+  - Indian 🍛
+  - Ramen 🍜
+  - Seafood 🦞🐟
