@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+This page is designed to test **emphasis.**
+
+_This is italicized_<br>
+__This is BOLD__<br>
+__And *THIS* uses both types of emphasis__
