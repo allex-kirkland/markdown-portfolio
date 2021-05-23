@@ -1,1 +1,8 @@
-Replace this with your name, and include a header.
+# My First Header
+Allex Kirkland
+
+## About Me
+
+### My Goals
+
+### My Hobbies
